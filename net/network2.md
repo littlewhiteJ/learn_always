@@ -82,7 +82,7 @@ LISTEN
 CONNECT
 ACCEPT
 RECEIVE
-SEND
+SEND 
 DISCONNECT
 ```
 在客户机-服务器模型中，可利用这些原语进行请求应答交互式应用
