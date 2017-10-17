@@ -519,11 +519,20 @@ Thesis: (Magna cum laude)
 Modalités temporelles et aléthiques pour la traduction d'un fragment de la langue française
 (Temporal and mandatory modalities for translating a subset of French).
 
-最近只有这一篇
-### LREC Universal Stanford dependencies: A cross-linguistic typology
+### "i have a feeling trump will win..................": Forecasting Winners and Losers from User Predictions on Twitter 
 Abstract
+Social media users often make explicit predictions about upcoming events. Such statements vary in the degree of certainty the author expresses toward the outcome:"Leonardo DiCaprio will win Best Actor" vs. "Leonardo DiCaprio may win" or "No way Leonardo wins!". Can popular beliefs on social media predict who will win? To answer this question, we build a corpus of tweets annotated for veridicality on which we train a log-linear classifier that detects positive veridicality with high precision. We then forecast uncertain outcomes using the wisdom of crowds, by aggregating users' explicit predictions. Our method for forecasting winners is fully automated, relying only on a set of contenders as input. It requires no training data of past outcomes and outperforms sentiment and tweet volume baselines on a broad range of contest prediction tasks. We further demonstrate how our approach can be used to measure the reliability of individual accounts' predictions and retrospectively identify surprise outcomes.
 
-Cross-linguistically consistent annotation is necessary for sound comparative evaluation and cross-lingual learning experiments. It is also useful for multilingual system development and comparative linguistic studies. Universal Dependencies is an open community effort to create cross-linguistically consistent treebank annotation for many languages within a dependency-based lexicalist framework. In this paper, we describe v1 of the universal guidelines, the underlying design principles, and the currently available treebanks for 33 languages.
+### Developing linguistic theories using annotated corpora
+
+Abstract
+This paper aims to carve out a place for corpus research within theoretical
+linguistics and psycholinguistics. We argue that annotated corpora naturally com-
+plement native speaker intuitions and controlled psycholinguistic methods and thus
+can  be  powerful  tools  for  developing  and  evaluating  linguistic  theories.  We  also
+review basic methods and best practices for moving from corpus annotations to hy-
+pothesis formation and testing, offering practical advice and technical guidance to
+researchers wishing to incorporate corpus methods into their work
 
 ## Jason Chuang
 http://jason.chuang.info/
