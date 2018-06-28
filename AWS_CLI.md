@@ -22,8 +22,8 @@ AWS是亚马逊提供的云存储服务 效果类似于远端访问一个文件�
 
 可以选择通过[Github](https://github.com/aws/aws-cli)下载源码并运行
 ```
-	$ cd <path_to_awscli>
-	$ python setup.py install
+	cd <path_to_awscli>
+	python setup.py install
 ```
 
 ## 登入
