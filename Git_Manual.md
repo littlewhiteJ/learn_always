@@ -215,4 +215,7 @@ $ git mv OLDNAME NEWNAME
 
 ## 撤销操作
 
-
+## 不用每次push时候都写用户名&密码 
+```
+  git config --global credential.helper store
+```
