@@ -1,0 +1,1 @@
+type C:\Users\[User]\.ssh\id_rsa.pub | ssh [server User]@[IP] "cat >> .ssh/authorized_keys"
